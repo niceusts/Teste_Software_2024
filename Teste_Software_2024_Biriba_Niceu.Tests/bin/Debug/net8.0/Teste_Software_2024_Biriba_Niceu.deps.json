@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Teste_Software_2024_Biriba_Niceu/1.0.0": {
+        "runtime": {
+          "Teste_Software_2024_Biriba_Niceu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste_Software_2024_Biriba_Niceu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
